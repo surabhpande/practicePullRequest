@@ -19,13 +19,9 @@ Create Pull Request to their repo
 1️⃣ Fork the repository (MANDATORY)
 
 On GitHub:
-
 Open repo: xyz/hellow
-
-Click Fork
-
+Click For
 This creates:
-
 your-username/hellow
 
 
